@@ -1,0 +1,9 @@
+WorkFlow Steps:
+
+1>User Fills a Form with Speciality Doctor and Location Details
+2>The Doctors are classified based on Speciality and Location
+3>Doctor avaibility is checked through random forest applied on Doctor Dataset
+4>Medicine avaibility is checked through random forest applied on Medicine Dataset
+5>The results of step 3 and step 4 are stored in a third database
+6>Random Forest is applied on the third database
+7>The output is displayed with the prediction of Doctor and Medicine avaibility

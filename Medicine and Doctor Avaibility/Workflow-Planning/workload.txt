@@ -1,0 +1,25 @@
+Cardiology
+Orthopedics
+Dermatology
+Pediatrics
+Gynecology
+
+
+Work Load Division 
+________________________
+
+1>Sahil 
+ *)Data Set Creation both Doctor and Medicine 
+ *)Data Cleaning 
+ *)Basics of Model Building 
+ 
+
+2>Himanth
+ *)Data Cleaning
+ *)Basics of Model Building 
+ *)Start with code 
+
+3>Sneha
+ *)Convert notepad data into Excel(both datasets)
+ *)Create Workflow Flow Chart 
+ *)Work on Review 2 ppt 
